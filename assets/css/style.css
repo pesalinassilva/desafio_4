@@ -1,0 +1,53 @@
+
+.header-logo{
+    width: 86px;
+    height: 25px;
+}
+
+.card h5,p{
+    font-family: roboto;
+    font-weight: 300;
+}
+
+.card h5{
+    color: #212529;
+}
+
+.card p{
+    color: #707070
+}
+
+div .d-flex{
+    justify-content: flex-end;
+    align-items: center;
+    gap: 15px;
+}
+
+.real-price{
+    font-family: roboto;
+    font-weight: 300;
+    color: #707070;
+}
+
+.discount-price{
+    font-family: roboto;
+    font-weight: 500;
+}
+
+input{
+    color: #707070;
+}
+
+button{
+    font-family: roboto;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+footer img{
+    width: 86px;
+    height: 25px;
+}
+
+
+
